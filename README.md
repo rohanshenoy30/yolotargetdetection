@@ -49,7 +49,7 @@ weight_decay: 0.0005
 
 # Raspberry PI5 Deployment
 
-to run I set up a virtual environment, stream the Raspberry Pi camera to a virtual video device, and runs a Python script that uses the virtual camera.
+This guide sets up a virtual environment, streams the Raspberry Pi camera to a virtual video device, all in a Python script that uses the virtual camera.
 ---
 
 ## 📦NOTE: FOR THE NEW CODE
